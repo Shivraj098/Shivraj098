@@ -1,133 +1,79 @@
-# Hi, I'm Shivraj Singh
+<h1 align="center">Hey, I'm Shivraj 👋</h1>
 
-**Full-Stack Software Engineer with a backend focus.**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Full-stack+engineer+with+a+backend+focus;I+like+the+parts+of+apps+you+never+see;Auth%2C+APIs%2C+databases%2C+realtime+systems" alt="Typing SVG" />
+</p>
 
-I build TypeScript-based web applications and backend systems with a focus on **APIs, databases, authentication, authorization, realtime systems, and reliable application architecture**.
-
-My primary stack includes **TypeScript, JavaScript, Node.js, Next.js, React, PostgreSQL, and Prisma**. I'm also exploring how **AI/LLM capabilities can be integrated into practical software products**.
-
-Currently focused on strengthening my backend engineering, system design, security, and production-oriented development skills.
-
----
-
-## What I Work With
-
-### Languages
-
-* TypeScript
-* JavaScript
-* SQL
-
-### Frontend
-
-* React
-* Next.js
-* Tailwind CSS
-
-### Backend
-
-* Node.js
-* REST APIs
-* Authentication & Authorization
-* WebSockets / Realtime Systems
-
-### Database & ORM
-
-* PostgreSQL
-* Prisma
-* Redis
-
-### Infrastructure & Deployment
-
-* Docker
-* Vercel
-* Railway
-* Git & GitHub
-
-### AI
-
-* LLM APIs
-* AI-powered application features
-* AI integration
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
 
 ---
 
-## Featured Projects
+## 🧠 The short version
 
-### AuthStack
+I build web apps, but what I enjoy most is what happens **behind** the interface: authorization boundaries, data consistency under concurrent writes, and how a system recovers when connections drop mid-flight.
 
-**Authentication & authorization platform focused on secure identity management.**
+If ordering guarantees, consistency trade-offs, or what a network partition does to your app make you curious, we'd probably get along.
 
-Built around authentication, authorization, session management, OAuth 2.0/PKCE, TOTP-based MFA, rate limiting, JWT handling, and audit logging.
+**🔨 Currently building:** [Realtime-Canvas](https://github.com/Shivraj098/Realtime-Canvas), a collaborative canvas with concurrent-edit handling and reconnect/replay.
 
-**Focus:** Backend Engineering · Security · Authentication · APIs · PostgreSQL
+## 🛠️ Toolbox
 
----
+| | |
+|---|---|
+| 🗣️ **Languages** | TypeScript · JavaScript · SQL |
+| 🎨 **Frontend** | React · Next.js · Tailwind CSS |
+| ⚙️ **Backend** | Node.js · REST APIs · AuthN/AuthZ · WebSockets |
+| 🗄️ **Data** | PostgreSQL · Prisma · Redis |
+| 🚀 **Shipping** | Docker · Vercel · Railway · Git |
+| 🤖 **AI** | LLM APIs · AI-powered product features |
 
-### TaskFlow
+## 🚧 Projects
 
-**Full-stack team collaboration and task management platform.**
+### 🔐 [AuthStack](https://github.com/Shivraj098/AuthStack) · [Live](https://auth-stack-client.vercel.app/)
+Identity platform with OAuth 2.0 + PKCE, TOTP-based MFA, JWT handling, session management, rate limiting, and audit logging.
+`Security` `APIs` `PostgreSQL`
 
-Built with Next.js, TypeScript, PostgreSQL, and Prisma, with project/task workflows, role-based permissions, protected APIs, and realtime synchronization.
+### ✅ [TaskFlow](https://github.com/Shivraj098/task-manager) · [Live](https://task-manager-ten-lac-95.vercel.app/)
+Team task platform with role-based permissions, protected APIs, and realtime sync, built on Next.js, TypeScript, PostgreSQL, and Prisma.
+`Full-Stack` `RBAC` `Realtime`
 
-**Focus:** Full-Stack Engineering · Backend APIs · Database Design · RBAC · Realtime Systems
+### 🎨 [Realtime-Canvas](https://github.com/Shivraj098/Realtime-Canvas) *(in progress)*
+Collaborative canvas tackling operation ordering, concurrent edits, persistence, and reconnect/replay.
+`WebSockets` `Concurrency` `System Design`
 
----
+### 📄 [HirePilot](https://github.com/Shivraj098/hirepilot) *(prototype)*
+AI-assisted resume parsing, ATS analysis, tailoring, skill-gap analysis, and job tracking.
+`AI Integration` `Document Processing` `PostgreSQL`
 
-### Realtime-Canvas
+## 🔭 Currently learning
 
-**Collaborative realtime canvas system focused on synchronization and concurrent updates.**
+- 🏗️ Backend architecture, system design, and distributed systems fundamentals
+- 🔒 Secure-by-default application development
+- ⚡ Reliable realtime systems: ordering, idempotency, resumable connections
+- 🧪 Recently worked through a product engineering challenge on resumable realtime conversations, which pushed me deeper into state recovery and delivery guarantees
+- 🚢 Production-minded engineering: error handling and observability
 
-Explores realtime communication, operation ordering, persistence, reconnect/replay behavior, and handling concurrent client changes.
+## 📊 GitHub stats
 
-**Focus:** Realtime Systems · WebSockets · Concurrency · Distributed State · System Design
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shivraj098&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivraj098&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
----
+## 📫 Let's talk
 
-### HirePilot
+Hiring, building something interesting, or want to compare notes on system design? I'm around.
 
-**AI-powered resume intelligence platform.**
+<p>
+  <a href="https://www.linkedin.com/in/shivraj-singh-036b6035a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Shivraj098"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
-A project exploring resume parsing, ATS analysis, AI-assisted resume tailoring, skill-gap analysis, resume versioning, and job tracking.
-
-**Status:** Project / Prototype
-
-**Focus:** AI Integration · Full-Stack Development · Document Processing · PostgreSQL
-
----
-
-## Engineering Interests
-
-I'm particularly interested in:
-
-* Backend architecture
-* API design
-* Authentication & security
-* Database design and data modeling
-* Realtime systems
-* Distributed state and concurrency
-* System design
-* Reliability and error handling
-* AI integration into software products
-
----
-
-## Currently Learning
-
-* Advanced backend architecture
-* System design
-* Distributed systems fundamentals
-* Secure application development
-* Reliable realtime systems
-* Production-oriented engineering practices
-
----
-
-## Connect
-
-* **GitHub:** [Shivraj098](https://github.com/Shivraj098)
-* **LinkedIn:** [Shivraj Singh](https://www.linkedin.com/in/shivraj-singh-036b6035a/)
-
----
-
-> Building software with a focus on understanding how the systems behind the interface actually work.
+<p align="center"><i>Building software, and understanding how the systems behind the interface actually work.</i></p>
