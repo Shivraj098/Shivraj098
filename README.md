@@ -60,13 +60,6 @@ AI-assisted resume parsing, ATS analysis, tailoring, skill-gap analysis, and job
 - 🧪 Recently worked through a product engineering challenge on resumable realtime conversations, which pushed me deeper into state recovery and delivery guarantees
 - 🚢 Production-minded engineering: error handling and observability
 
-## 📊 GitHub stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shivraj098&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivraj098&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 ## 📫 Let's talk
 
 Hiring, building something interesting, or want to compare notes on system design? I'm around.
